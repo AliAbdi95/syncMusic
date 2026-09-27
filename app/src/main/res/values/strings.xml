@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sync Music (WiFi)</string>
+    <string name="become_host">میزبان شو (Host)</string>
+    <string name="join_session">ورود به سشن</string>
+    <string name="session_code">کد سشن</string>
+    <string name="enter_code">کد ۶ رقمی را وارد کنید</string>
+    <string name="start_session">شروع سشن</string>
+    <string name="waiting_clients">در انتظار کلاینت‌ها...</string>
+    <string name="clients_connected">کلاینت‌های متصل:</string>
+    <string name="download_song">دانلود و ارسال آهنگ به کلاینت‌ها</string>
+    <string name="play_synced">پخش همزمان</string>
+    <string name="stop">توقف</string>
+    <string name="status">وضعیت:</string>
+    <string name="ready">آماده</string>
+    <string name="not_ready">در حال آماده‌سازی</string>
+</resources>
